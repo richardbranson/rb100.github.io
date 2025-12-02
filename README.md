@@ -98,7 +98,7 @@ If you create something using this toolkit, feel free to share it — we’d lov
 RB100 is a hybrid-fitness platform specialising in the intersection of strength, engine capacity, and race performance.
 We produce:
 - [Exercise library](https://rb100.fitness/exercises)
-- [Exercise of the Day]([https://rb100.fitness/](http://rb100.fitness/exercises/exercise-of-the-day/))
+- [Exercise of the Day](http://rb100.fitness/exercises/exercise-of-the-day/)
 - Training plans
 - [HYROX Article Series](https://rb100.fitness/hyrox)
 - [100-challenge workouts](https://rb100.fitness/relentless-bravery-challenges/)
