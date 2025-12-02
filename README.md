@@ -1,7 +1,8 @@
 # rb100 Tool Kit
 A collection of developer resources, embed widgets, API examples and open-source tools from [RB100.Fitness](https://rb100.fitness/). Designed for gyms, PTs and hybrid training platforms wanting to integrate evidence-based exercise cards, WOD modules and performance calculators directly into their websites and apps.
 
-Absolutely — here is your README.md in clean, ready-to-paste Markdown format, following GitHub conventions and structured for clarity, SEO and developer-friendliness.
+[[RB100.Fitness]([https://rb100.fitness/](https://richardbranson.github.io/rb100.fitness/))](https://richardbranson.github.io/rb100.fitness/)
+[rb.100.Fitness Tools](https://richardbranson.github.io/rb100.fitness/fitness-tools/)
 
 ⸻
 
@@ -18,13 +19,13 @@ RB100.Fitness publishes evidence-based exercise guides, HYROX training resources
 1. Exercise Library Embed
 
 Easily display any RB100 Exercise Card on your site.
-
+```
 <div data-rb100-exercise="sandbag-zercher-lunge"></div>
 <script src="https://rb100.fitness/embed/exercise.js"></script>
 
 Replace "sandbag-zercher-lunge" with any exercise slug from the RB100 Exercise Library:
 https://rb100.fitness/exercise/
-
+```
 ⸻
 
 2. Workout of the Day (WOD) Embed
