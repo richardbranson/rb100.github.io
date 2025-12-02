@@ -1,7 +1,7 @@
 # rb100 Tool Kit
 A collection of developer resources, embed widgets, API examples and open-source tools from [RB100.Fitness](https://rb100.fitness/). Designed for gyms, PTs and hybrid training platforms wanting to integrate evidence-based exercise cards, WOD modules and performance calculators directly into their websites and apps.
 
-[[RB100.Fitness]([https://rb100.fitness/](https://richardbranson.github.io/rb100.fitness/))](https://richardbranson.github.io/rb100.fitness/)
+[rb100.Fitness on GitHub Pages](https://richardbranson.github.io/rb100.fitness/)
 [rb.100.Fitness Tools](https://richardbranson.github.io/rb100.fitness/fitness-tools/)
 
 ⸻
@@ -31,14 +31,14 @@ https://rb100.fitness/exercise/
 2. Workout of the Day (WOD) Embed
 
 Embed the RB100 daily or weekly workout on any site:
-
+```
 <div id="rb100-wod"></div>
 <script src="https://rb100.fitness/embed/wod.js"></script>
-
+```
 Customisation options (coming soon):
-	•	difficulty
-	•	equipment
-	•	duration
+	- difficulty
+	- equipment
+	- duration
 
 ⸻
 
@@ -47,18 +47,18 @@ Customisation options (coming soon):
 All RB100 exercises, including ACF fields, are accessible via the WordPress REST API.
 
 Example endpoint:
-
+```
 https://rb100.fitness/wp-json/wp/v2/exercise?slug=sandbag-zercher-lunge&acf_format=standard
-
+```
 Typical JSON response includes:
-	•	Exercise name
-	•	Excerpt
-	•	Movement patterns
-	•	Muscle groups
-	•	ACF coaching cues
-	•	Variations
-	•	Regressions
-	•	Programming ideas
+	- Exercise name
+	- Excerpt
+	- Movement patterns
+	- Muscle groups
+	- ACF coaching cues
+	- Variations
+	- Regressions
+	- Programming ideas
 
 Use this data to build custom components, dashboards or integrations.
 
@@ -97,13 +97,13 @@ If you create something using this toolkit, feel free to share it — we’d lov
 
 RB100 is a hybrid-fitness platform specialising in the intersection of strength, engine capacity, and race performance.
 We produce:
-	•	[Exercise library](https://rb100.fitness/exercises)
-	•	[Exercise of the Day]([https://rb100.fitness/](http://rb100.fitness/exercises/exercise-of-the-day/))
-	•	Training plans
-	•	[HYROX Article Series](https://rb100.fitness/hyrox)
-	•	[100-challenge workouts](https://rb100.fitness/relentless-bravery-challenges/)
-	•	Athlete insights
-	•	Performance tools and calculators
+	- [Exercise library](https://rb100.fitness/exercises)
+	- [Exercise of the Day]([https://rb100.fitness/](http://rb100.fitness/exercises/exercise-of-the-day/))
+	- Training plans
+	- [HYROX Article Series](https://rb100.fitness/hyrox)
+	- [100-challenge workouts](https://rb100.fitness/relentless-bravery-challenges/)
+	- Athlete insights
+	- Performance tools and calculators
 
 Visit the full platform here:
 [RB100.Fitness](https://rb100.fitness/)
