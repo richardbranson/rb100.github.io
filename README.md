@@ -36,9 +36,9 @@ Embed the RB100 daily or weekly workout on any site:
 <script src="https://rb100.fitness/embed/wod.js"></script>
 ```
 Customisation options (coming soon):
-	- difficulty
-	- equipment
-	- duration
+- difficulty
+- equipment
+- duration
 
 ⸻
 
@@ -51,14 +51,14 @@ Example endpoint:
 https://rb100.fitness/wp-json/wp/v2/exercise?slug=sandbag-zercher-lunge&acf_format=standard
 ```
 Typical JSON response includes:
-	- Exercise name
-	- Excerpt
-	- Movement patterns
-	- Muscle groups
-	- ACF coaching cues
-	- Variations
-	- Regressions
-	- Programming ideas
+- Exercise name
+- Excerpt
+- Movement patterns
+- Muscle groups
+- ACF coaching cues
+- Variations
+- Regressions
+- Programming ideas
 
 Use this data to build custom components, dashboards or integrations.
 
@@ -67,12 +67,12 @@ Use this data to build custom components, dashboards or integrations.
 4. Tools & Calculators
 
 This repo will include source code for training tools developed for RB100, such as:
-	•	Zone 2 Heart Rate Calculators
-	•	HYROX Pace Predictors
-	•	Rep Scheme Generators
-	•	Timer Logic
-	•	Workout data schemas
-	•	Sensor scripts for training devices
+- Zone 2 Heart Rate Calculators
+- HYROX Pace Predictors
+- Rep Scheme Generators
+- Timer Logic
+- Workout data schemas
+- Sensor scripts for training devices
 
 Open-source examples will be added over time to support gyms, coaches and developers.
 
@@ -81,13 +81,13 @@ Open-source examples will be added over time to support gyms, coaches and develo
 5. Who This Is For
 
 This integration toolkit is designed for:
-	•	Gym owners
-	•	Personal trainers
-	•	HYROX coaches
-	•	Online programming platforms
-	•	Fitness app developers
-	•	Sport-tech builders
-	•	Hybrid athletes
+- Gym owners
+- Personal trainers
+- HYROX coaches
+- Online programming platforms
+- Fitness app developers
+- Sport-tech builders
+- Hybrid athletes
 
 If you create something using this toolkit, feel free to share it — we’d love to see it.
 
@@ -97,13 +97,13 @@ If you create something using this toolkit, feel free to share it — we’d lov
 
 RB100 is a hybrid-fitness platform specialising in the intersection of strength, engine capacity, and race performance.
 We produce:
-	- [Exercise library](https://rb100.fitness/exercises)
-	- [Exercise of the Day]([https://rb100.fitness/](http://rb100.fitness/exercises/exercise-of-the-day/))
-	- Training plans
-	- [HYROX Article Series](https://rb100.fitness/hyrox)
-	- [100-challenge workouts](https://rb100.fitness/relentless-bravery-challenges/)
-	- Athlete insights
-	- Performance tools and calculators
+- [Exercise library](https://rb100.fitness/exercises)
+- [Exercise of the Day]([https://rb100.fitness/](http://rb100.fitness/exercises/exercise-of-the-day/))
+- Training plans
+- [HYROX Article Series](https://rb100.fitness/hyrox)
+- [100-challenge workouts](https://rb100.fitness/relentless-bravery-challenges/)
+- Athlete insights
+- [Performance tools and calculators](https://richardbranson.github.io/rb100.fitness/fitness-tools/)
 
 Visit the full platform here:
 [RB100.Fitness](https://rb100.fitness/)
