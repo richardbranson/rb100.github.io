@@ -2,8 +2,12 @@ A collection of developer resources, embed widgets, API examples and open-source
 
 - [rb100.Fitness on GitHub Pages](https://richardbranson.github.io/rb100.fitness/)  
 - [rb.100.Fitness Tools](https://richardbranson.github.io/rb100.fitness/fitness-tools/)
-1. [Exercise Library Embed](https://richardbranson.github.io/rb100.fitness/#exercise-library-embed)
-2. [Workout of the Day (WOD) Embed](https://richardbranson.github.io/rb100.fitness/#exercise-library-embed)
+1. [Exercise Library Embed](https://richardbranson.github.io/rb100.fitness/#1-exercise-library-embed)
+2. [Workout of the Day (WOD) Embed](https://richardbranson.github.io/rb100.fitness/#2-workout-of-the-day-wod-embed)
+3. [REST API Access](https://richardbranson.github.io/rb100.fitness/#3-rest-api-access)
+4. [Tools & Calculators](https://richardbranson.github.io/rb100.fitness/#4-tools--calculators)
+
+
 ⸻
 
 ## RB100 Fitness Integration Toolkit
